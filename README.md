@@ -1,4 +1,4 @@
-### How to use youtube downloader
+# How to use youtube downloader
 
 ### 1-Install python from official python website
 
