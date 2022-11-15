@@ -17,3 +17,9 @@ pip install pytube
 ```
 git clone https://github.com/rezafarazi/YoutubeDownloaderPython.git
 ```
+
+### 4-Run project with cmd
+
+```
+python app.py
+```
